@@ -29,3 +29,6 @@ functions:
     environment:
       topicArn: arn:aws:sns:eu-west-2:917755463306:everymanbaby-topic
       email: denialanderror@googlemail.com
+
+plugins:
+  - serverless-offline
